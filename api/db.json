@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "great stream",
+      "id": 1
+    },
+    {
+      "title": "Gotta run ",
+      "description": "and make it on time",
+      "id": 15
+    },
+    {
+      "title": "Mr. Softee",
+      "description": "Come home!",
+      "userId": "109166289607615054547",
+      "id": 18
+    },
+    {
+      "title": "Day ? Inside",
+      "description": "This is the video",
+      "userId": "109166289607615054547",
+      "id": 19
+    }
+  ]
+}
