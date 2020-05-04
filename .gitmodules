@@ -1,0 +1,3 @@
+[submodule "streams-client"]
+	path = streams-client
+	url = https://github.com/thenatural86/streams-client
